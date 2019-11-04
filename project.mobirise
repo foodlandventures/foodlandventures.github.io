@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "FOODLAND INC (New)",
-    "currentPage": "page6.html",
+    "name": "FOODLAND VENTURES",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -45,11 +45,16 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 114,
     "versionPublish": "4.11.2",
-    "favicon": "@PROJECT_PATH@/assets/images/group-3-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/fv-128x128-1.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
     "сanonical-url": "",
-    "canonical-url": ""
+    "canonical-url": "",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined"
   },
   "pages": {
     "jobs.html": {
@@ -3352,7 +3357,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "FOODLAND INC",
+        "title": "FOODLAND VENTURES",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
