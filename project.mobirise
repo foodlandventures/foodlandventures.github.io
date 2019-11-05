@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FOODLAND VENTURES",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3279,7 +3279,7 @@
         "main": true,
         "title": "FOODLAND VENTURES",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<link rel=”apple-touch-icon” href=”https://nommagazine.com/wp-content/uploads/2019/11/FV.png” />",
         "footer_custom": "",
         "html_before": ""
       },
