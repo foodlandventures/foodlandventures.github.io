@@ -53,8 +53,10 @@
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": "undefined"
+    "sitemapSwitcherAuto": true,
+    "siteUrl": "",
+    "google-analytics": "UA-56820333-5",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
     "jobs.html": {
