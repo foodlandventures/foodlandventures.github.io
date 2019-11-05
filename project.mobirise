@@ -3279,7 +3279,7 @@
         "main": true,
         "title": "FOODLAND VENTURES",
         "meta_descr": "",
-        "header_custom": "<link rel=”apple-touch-icon” href=”https://nommagazine.com/wp-content/uploads/2019/11/FV.png” />",
+        "header_custom": "<link rel=”apple-touch-icon” href=”https://nommagazine.com/wp-content/uploads/2019/11/FV.png” />\n<link rel=”apple-touch-icon” sizes=”72×72″ href=”https://nommagazine.com/wp-content/uploads/2019/11/FV.png” />\n<link rel=”apple-touch-icon” sizes=”114×114″ href=”https://nommagazine.com/wp-content/uploads/2019/11/FV.png” />",
         "footer_custom": "",
         "html_before": ""
       },
