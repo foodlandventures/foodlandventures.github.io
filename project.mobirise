@@ -43,7 +43,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 117,
+    "uniqCompNum": 122,
     "versionPublish": "4.11.2",
     "favicon": "@PROJECT_PATH@/assets/images/fv-128x128-1.png",
     "noImageResize": "",
@@ -55,7 +55,7 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": true,
     "siteUrl": "",
-    "google-analytics": "UA-56820333-5",
+    "google-analytics": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
   },
   "pages": {
@@ -63,7 +63,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Career",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -678,7 +678,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Contact",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -1232,7 +1232,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Community",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1825,7 +1825,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2581,7 +2581,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "Team",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -3906,7 +3906,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "About",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
